@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//1
 public class Num123 {
 
 	public static void main(String[] args) {
